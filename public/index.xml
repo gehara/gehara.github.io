@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Marcelo Gehara</title><link>https://marcelogehara.org/</link><description>Recent content in About on Marcelo Gehara</description><generator>Hugo</generator><language>en</language><atom:link href="https://marcelogehara.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Music</title><link>https://marcelogehara.org/music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/music/</guid><description>&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gehara Lab</title><link>https://marcelogehara.org/</link><description>Recent content on Gehara Lab</description><generator>Hugo</generator><language>en</language><atom:link href="https://marcelogehara.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Join Us</title><link>https://marcelogehara.org/join/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/join/</guid><description>&lt;h2 id="join-the-lab"&gt;Join the Lab&lt;/h2&gt;
+&lt;p&gt;We are always looking for motivated students and postdocs interested
+in evolutionary biology, population genetics, and bioinformatics.&lt;/p&gt;
+&lt;p&gt;If you are interested in joining the Gehara Lab, please email
+&lt;strong&gt;m.gehara[at]rutgers.edu&lt;/strong&gt; with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your CV&lt;/li&gt;
+&lt;li&gt;A brief description of your research interests&lt;/li&gt;
+&lt;li&gt;Why you are interested in our lab&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Music</title><link>https://marcelogehara.org/music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/music/</guid><description>&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/macarraz/terna-ideia-ternario-pra-deia&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;
 &lt;/iframe&gt;
 &lt;br&gt;
@@ -12,38 +21,60 @@
 &lt;br&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/macarraz/jojo&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;
-&lt;/iframe&gt;</description></item><item><title>People</title><link>https://marcelogehara.org/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/people/</guid><description>&lt;h2 id="current-members"&gt;Current Members&lt;/h2&gt;
-&lt;h3 id="postdoctoral-researcher"&gt;Postdoctoral Researcher&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Felipe Magalhaes&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="phd-students"&gt;PhD Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Wilson Guillory&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Felipe Coelho&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="former-students"&gt;Former Students&lt;/h2&gt;
-&lt;h3 id="phd-students-1"&gt;PhD Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Francisco F. Robeiro de Oliveira&lt;/strong&gt; (co-advised; Advisor: Mirco Sole)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="master-students"&gt;Master Students&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Emanuel Masiero da Fonseca&lt;/strong&gt; (co-advised; Advisor: Adrian A. Garda)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Flavia Mol Lana&lt;/strong&gt; (co-advised; Advisor: Adrian A. Garda)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id="collaborators"&gt;Collaborators&lt;/h2&gt;
+&lt;/iframe&gt;</description></item><item><title>People</title><link>https://marcelogehara.org/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/people/</guid><description>&lt;h2 id="people"&gt;People&lt;/h2&gt;
+&lt;h3 id="principal-investigator"&gt;Principal Investigator&lt;/h3&gt;
+&lt;img src="https://marcelogehara.org/images/me.jpg" alt="Marcelo Gehara" style="float:left; margin-right:15px; margin-bottom:10px; width:150px;"&gt;
+&lt;p&gt;&lt;strong&gt;Marcelo Gehara&lt;/strong&gt; — Associate Professor of Ecology and Evolutionary Biology&lt;/p&gt;
+&lt;p&gt;I investigate how speciation mechanisms work across the tree of life,
+integrating Population Genetics, Molecular Ecology and Historical
+Biogeography with Genomics and Bioinformatics tools.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=lYIUAmYAAAAJ"&gt;Google Scholar&lt;/a&gt; |
+&lt;a href="https://www.researchgate.net/profile/Marcelo-Gehara"&gt;ResearchGate&lt;/a&gt; |
+&lt;a href="https://github.com/gehara"&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;div style="clear:both"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Education:&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Year&lt;/th&gt;
+ &lt;th&gt;Degree&lt;/th&gt;
+ &lt;th&gt;Institution&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2013&lt;/td&gt;
+ &lt;td&gt;Ph.D.&lt;/td&gt;
+ &lt;td&gt;Braunschweig Institute of Technology, Germany&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2009&lt;/td&gt;
+ &lt;td&gt;M.S.&lt;/td&gt;
+ &lt;td&gt;Pontifical Catholic University of Rio Grande do Sul, Brazil&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2005&lt;/td&gt;
+ &lt;td&gt;B.S.&lt;/td&gt;
+ &lt;td&gt;Federal University of Juiz de Fora, Brazil&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Postdoctoral Experience:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Photos</title><link>https://marcelogehara.org/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/photos/</guid><description>&lt;p&gt;Photo gallery coming soon.&lt;/p&gt;</description></item><item><title>Publications</title><link>https://marcelogehara.org/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/publications/</guid><description>&lt;h2 id="publications"&gt;Publications&lt;/h2&gt;
+&lt;p&gt;See the full list on
+&lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=lYIUAmYAAAAJ"&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Research</title><link>https://marcelogehara.org/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/research/</guid><description>&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;h3 id="speciation-and-phylogeography"&gt;Speciation and Phylogeography&lt;/h3&gt;
+&lt;p&gt;We study speciation mechanisms across diverse taxa, combining population
+genetics with phylogeographic approaches. Our work spans tropical and
+temperate systems, with a focus on amphibians and reptiles.&lt;/p&gt;
 &lt;h3 id="comparative-phylogeography-in-the-dry-diagonal"&gt;Comparative Phylogeography in the Dry Diagonal&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Adaptation, hybridization and reticulated evolution in contact zones&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Adrian A. Garda&lt;/li&gt;
-&lt;li&gt;Frank T. Burbrink&lt;/li&gt;
-&lt;li&gt;Eliana F. de Oliveira&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="cacti-evolution-project"&gt;Cacti Evolution Project&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Espinhaco mountain range&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Photos</title><link>https://marcelogehara.org/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/photos/</guid><description>&lt;p&gt;Photo gallery coming soon.&lt;/p&gt;</description></item><item><title>Software</title><link>https://marcelogehara.org/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/software/</guid><description>&lt;h2 id="pipemaster"&gt;PipeMaster&lt;/h2&gt;
+&lt;p&gt;We investigate adaptation, hybridization and reticulated evolution in
+contact zones across the South American Dry Diagonal, in collaboration
+with Adrian Garda, Frank Burbrink, and Eliana de Oliveira.&lt;/p&gt;
+&lt;h3 id="computational-methods-for-demographic-inference"&gt;Computational Methods for Demographic Inference&lt;/h3&gt;
+&lt;p&gt;We develop statistical and machine learning tools for inferring
+population history from genomic data. This includes coalescent
+simulation, ABC methods, and neural network emulators — implemented
+in our R package &lt;a href="https://github.com/gehara/PipeMaster"&gt;PipeMaster&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Software</title><link>https://marcelogehara.org/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/software/</guid><description>&lt;h2 id="pipemaster"&gt;PipeMaster&lt;/h2&gt;
 &lt;img src="https://marcelogehara.org/images/pipemaster_sticker.png" alt="PipeMaster" style="float:left; margin-right:15px; margin-bottom:10px; width:120px;"&gt;
 &lt;p&gt;An R package to build and simulate coalescent models for population
 genetic and demographic inference.&lt;/p&gt;

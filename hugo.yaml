@@ -1,4 +1,4 @@
-title: "Marcelo Gehara"
+title: "Gehara Lab"
 baseURL: "https://marcelogehara.org"
 theme: "hugo-researcher"
 disableKinds: ["taxonomy", "term"]
@@ -24,11 +24,11 @@ permalinks:
   /: "/:contentbasename"
 
 params:
-  author: "Marcelo Gehara"
+  author: "Gehara Lab"
   description: "Evolution and Biodiversity"
   favicon: "favicon.ico"
   footer:
-    text: "Marcelo Gehara"
+    text: "Gehara Lab — Rutgers University-Newark"
     url: "https://github.com/gehara"
   style:
     fontFamily: "Inconsolata"
@@ -47,24 +47,30 @@ params:
     - icon: "ai ai-google-scholar"
       title: "Google Scholar"
       url: "https://scholar.google.com/citations?hl=en&user=lYIUAmYAAAAJ"
-    - icon: "ai ai-researchgate"
-      title: "ResearchGate"
-      url: "https://www.researchgate.net/profile/Marcelo-Gehara"
 
 menu:
   main:
-    - name: "About"
+    - name: "Home"
       url: "/"
       weight: 1
+    - name: "Research"
+      url: "/research"
+      weight: 2
     - name: "People"
       url: "/people"
-      weight: 2
+      weight: 3
+    - name: "Publications"
+      url: "/publications"
+      weight: 4
     - name: "Software"
       url: "/software"
-      weight: 3
+      weight: 5
     - name: "Photos"
       url: "/photos"
-      weight: 4
+      weight: 6
+    - name: "Join Us"
+      url: "/join"
+      weight: 7
     - name: "Music"
       url: "/music"
-      weight: 5
+      weight: 8
