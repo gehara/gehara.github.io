@@ -44,6 +44,7 @@
 &lt;/ul&gt;
 &lt;h3 id="cacti-evolution-project"&gt;Cacti Evolution Project&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;Espinhaco mountain range&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Photos</title><link>https://marcelogehara.org/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/photos/</guid><description>&lt;p&gt;Photo gallery coming soon.&lt;/p&gt;</description></item><item><title>Software</title><link>https://marcelogehara.org/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/software/</guid><description>&lt;h2 id="pipemaster"&gt;PipeMaster&lt;/h2&gt;
+&lt;img src="https://marcelogehara.org/images/pipemaster_sticker.png" alt="PipeMaster" style="float:left; margin-right:15px; margin-bottom:10px; width:120px;"&gt;
 &lt;p&gt;An R package to build and simulate coalescent models for population
 genetic and demographic inference.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;
