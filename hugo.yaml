@@ -1,0 +1,220 @@
+baseURL: "https://marcelogehara.org"
+languageCode: "en-us"
+title: "Marcelo Gehara"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: people
+      name: People
+      title: Research Group
+      url: /people
+      weight: 1
+    - identifier: photos
+      name: Photos
+      title: Photo Gallery
+      url: /photos
+      weight: 2
+    - identifier: music
+      name: Music
+      title: Music
+      url: /music
+      weight: 3
+    - identifier: software
+      name: Software
+      title: Software
+      url: /software
+      weight: 4
+
+params:
+  title: "Marcelo Gehara"
+  description: "Evolution and Biodiversity"
+  favicon: "/fav.png"
+  useBootstrapCDN: false
+  mathjax: false
+  animate: true
+
+  theme:
+    defaultTheme: "light"
+
+  font:
+    fontSize: 1rem
+    fontWeight: 400
+    lineHeight: 1.5
+    textAlign: left
+
+  navbar:
+    align: ms-auto
+    brandName: "Marcelo Gehara"
+    disableSearch: true
+    stickyNavBar:
+      enable: true
+      showOnScrollUp: true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: true
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: true
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: ""
+    title: "Marcelo Gehara"
+    subtitle: "Evolution and Biodiversity"
+    content: |-
+      Associate Professor of Ecology and Evolutionary Biology
+      Department of Earth and Environmental Sciences
+      Rutgers University-Newark
+    image: /images/hero.jpg
+    bottomImage:
+      enable: false
+    roundImage: true
+    button:
+      enable: true
+      name: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=MARCELO_GEHARA"
+      download: false
+      newPage: true
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/gehara
+        - icon: fab fa-researchgate
+          url: https://www.researchgate.net/profile/Marcelo-Gehara
+        - icon: fas fa-graduation-cap
+          url: https://scholar.google.com/citations?user=MARCELO_GEHARA
+
+  # About
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/me.jpg"
+    content: |-
+      I investigate how speciation mechanisms work across the tree of life.
+      My research combines field and laboratory work on organisms outside
+      traditional model systems, integrating Population Genetics, Molecular
+      Ecology and Historical Biogeography with the use of Genomics and
+      Bioinformatics tools.
+    skills:
+      enable: true
+      title: "Research interests:"
+      items:
+        - "Population Genetics"
+        - "Molecular Ecology"
+        - "Historical Biogeography"
+        - "Genomics"
+        - "Bioinformatics"
+        - "Coalescent Theory"
+
+  # Education
+  education:
+    enable: true
+    index: false
+    items:
+      - title: "Ph.D."
+        school:
+          name: "Braunschweig Institute of Technology, Germany"
+        date: "2013"
+      - title: "M.S."
+        school:
+          name: "Pontifical Catholic University of Rio Grande do Sul, Brazil"
+        date: "2009"
+      - title: "B.S."
+        school:
+          name: "Federal University of Juiz de Fora, Brazil"
+        date: "2005"
+
+  # Experience (repurposed as Postdoctoral Experience)
+  experience:
+    enable: false
+
+  # Projects (repurposed as Software)
+  projects:
+    enable: true
+    title: "Software"
+    items:
+      - title: PipeMaster
+        content: |-
+          An R package for building and simulating coalescent models,
+          performing ABC inference, and training neural network emulators
+          for population genetic/demographic analysis.
+        image: /images/projects/pipemaster.png
+        featured:
+          name: GitHub
+          link: https://github.com/gehara/PipeMaster
+        badges:
+          - "R"
+          - "C/C++"
+          - "Coalescent Simulation"
+          - "ABC"
+          - "Neural Networks"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gehara/PipeMaster
+
+  # Achievements
+  achievements:
+    enable: false
+
+  # Contact
+  contact:
+    enable: true
+    content: |-
+      Feel free to reach out if you have questions about my research,
+      are interested in joining the lab, or want to collaborate.
+    btnName: Email me
+    btnLink: mailto:m.gehara@rutgers.edu
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: false
+    socialNetworks:
+      github: https://github.com/gehara
+
+  listPages:
+    disableFeaturedImage: false
+
+  singlePages:
+    socialShare: true
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+
+  terms:
+    read: "Read"
+    toc: "Table of Contents"
+    copyright: "All rights reserved"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
