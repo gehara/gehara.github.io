@@ -24,10 +24,9 @@ in evolutionary biology, population genetics, and bioinformatics.&lt;/p&gt;
 &lt;/iframe&gt;</description></item><item><title>People</title><link>https://marcelogehara.org/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/people/</guid><description>&lt;h2 id="people"&gt;People&lt;/h2&gt;
 &lt;h3 id="principal-investigator"&gt;Principal Investigator&lt;/h3&gt;
 &lt;img src="https://marcelogehara.org/images/me.jpg" alt="Marcelo Gehara" style="float:left; margin-right:15px; margin-bottom:10px; width:150px;"&gt;
-&lt;p&gt;&lt;strong&gt;Marcelo Gehara&lt;/strong&gt; — Associate Professor of Ecology and Evolutionary Biology&lt;/p&gt;
-&lt;p&gt;I investigate how speciation mechanisms work across the tree of life,
-integrating Population Genetics, Molecular Ecology and Historical
-Biogeography with Genomics and Bioinformatics tools.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Marcelo Gehara, Ph.D.&lt;/strong&gt; — Associate Professor of Ecology and Evolutionary Biology&lt;/p&gt;
+&lt;p&gt;Department of Earth and Environmental Sciences, Rutgers University-Newark&lt;/p&gt;
+&lt;p&gt;I investigate how speciation mechanisms work across the tree of life, integrating Population Genetics, Molecular Ecology and Historical Biogeography with Genomics and Bioinformatics tools.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=lYIUAmYAAAAJ"&gt;Google Scholar&lt;/a&gt; |
 &lt;a href="https://www.researchgate.net/profile/Marcelo-Gehara"&gt;ResearchGate&lt;/a&gt; |
 &lt;a href="https://github.com/gehara"&gt;GitHub&lt;/a&gt;&lt;/p&gt;
@@ -44,37 +43,32 @@ Biogeography with Genomics and Bioinformatics tools.&lt;/p&gt;
  &lt;tbody&gt;
  &lt;tr&gt;
  &lt;td&gt;2013&lt;/td&gt;
- &lt;td&gt;Ph.D.&lt;/td&gt;
+ &lt;td&gt;Ph.D. in Natural Sciences (Zoology)&lt;/td&gt;
  &lt;td&gt;Braunschweig Institute of Technology, Germany&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;2009&lt;/td&gt;
- &lt;td&gt;M.S.&lt;/td&gt;
+ &lt;td&gt;M.S. in Zoology&lt;/td&gt;
  &lt;td&gt;Pontifical Catholic University of Rio Grande do Sul, Brazil&lt;/td&gt;
  &lt;/tr&gt;
  &lt;tr&gt;
  &lt;td&gt;2005&lt;/td&gt;
- &lt;td&gt;B.S.&lt;/td&gt;
+ &lt;td&gt;B.S. in Biological Sciences&lt;/td&gt;
  &lt;td&gt;Federal University of Juiz de Fora, Brazil&lt;/td&gt;
  &lt;/tr&gt;
  &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Postdoctoral Experience:&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Photos</title><link>https://marcelogehara.org/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/photos/</guid><description>&lt;p&gt;Photo gallery coming soon.&lt;/p&gt;</description></item><item><title>Publications</title><link>https://marcelogehara.org/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/publications/</guid><description>&lt;h2 id="publications"&gt;Publications&lt;/h2&gt;
-&lt;p&gt;See the full list on
-&lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=lYIUAmYAAAAJ"&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Research</title><link>https://marcelogehara.org/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/research/</guid><description>&lt;h2 id="research"&gt;Research&lt;/h2&gt;
-&lt;h3 id="speciation-and-phylogeography"&gt;Speciation and Phylogeography&lt;/h3&gt;
-&lt;p&gt;We study speciation mechanisms across diverse taxa, combining population
-genetics with phylogeographic approaches. Our work spans tropical and
-temperate systems, with a focus on amphibians and reptiles.&lt;/p&gt;
-&lt;h3 id="comparative-phylogeography-in-the-dry-diagonal"&gt;Comparative Phylogeography in the Dry Diagonal&lt;/h3&gt;
-&lt;p&gt;We investigate adaptation, hybridization and reticulated evolution in
-contact zones across the South American Dry Diagonal, in collaboration
-with Adrian Garda, Frank Burbrink, and Eliana de Oliveira.&lt;/p&gt;
-&lt;h3 id="computational-methods-for-demographic-inference"&gt;Computational Methods for Demographic Inference&lt;/h3&gt;
-&lt;p&gt;We develop statistical and machine learning tools for inferring
-population history from genomic data. This includes coalescent
-simulation, ABC methods, and neural network emulators — implemented
-in our R package &lt;a href="https://github.com/gehara/PipeMaster"&gt;PipeMaster&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Software</title><link>https://marcelogehara.org/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/software/</guid><description>&lt;h2 id="pipemaster"&gt;PipeMaster&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://scholar.google.com/citations?hl=en&amp;amp;user=lYIUAmYAAAAJ"&gt;Google Scholar&lt;/a&gt; | Total: 55 | Since 2020: 27 | Citations: 2,138 | h-index: 29&lt;/p&gt;
+&lt;p&gt;* Gehara&amp;rsquo;s PhD student | † Gehara&amp;rsquo;s postdoc | ‡ Gehara&amp;rsquo;s Master&amp;rsquo;s student&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2026&lt;/strong&gt; — F Camurugi, VA Sao Pedro, F Magalhaes†, &lt;strong&gt;M Gehara&lt;/strong&gt;, EF Oliveira, GC Costa, FT Burbrink, EA Myers, GR Colli, MT Rodrigues, AA Garda. The Role of Gene Flow in the Diversification of the Monkey Treefrog Complex Across the South American Dry Diagonal. &lt;em&gt;Zoologica Scripta&lt;/em&gt;. DOI: 10.1111/zsc.70046&lt;/p&gt;</description></item><item><title>Research</title><link>https://marcelogehara.org/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/research/</guid><description>&lt;h2 id="research"&gt;Research&lt;/h2&gt;
+&lt;p&gt;Our research addresses a fundamental question in evolutionary biology: how do speciation mechanisms operate across the tree of life? We approach this through two complementary lines of work: (i) integrating population genomics, historical biogeography, and molecular ecology to investigate how geoclimatic processes drive population divergence and shape vertebrate diversity, and (ii) developing computational tools for demographic inference, combining coalescent simulation with machine learning.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="diversification-of-the-south-american-dry-diagonal"&gt;Diversification of the South American Dry Diagonal&lt;/h3&gt;
+&lt;p&gt;The Dry Diagonal, encompassing the Caatinga, Cerrado, and Chaco biomes, is the largest arid and semi-arid region in the Neotropics. Our lab has produced a series of genomic studies testing the roles of rivers, climate fluctuations, and gene flow in shaping vertebrate diversity across this region. We demonstrated that the Sao Francisco River acts as a biogeographic barrier for multiple vertebrate lineages (Coelho, Guillory &amp;amp; Gehara 2022), uncovered cryptic diversity and reticulate evolution in whiptail lizards and broad-snouted caimans (Magalhaes et al. 2025; Ornellas, Coelho et al. 2025), and revealed landscape genetic processes driving gene flow in highland frog populations (de Andrade Lima et al. 2025). This work culminated in an invited review in &lt;em&gt;Molecular Ecology&lt;/em&gt; (Guillory et al. 2024), the first comprehensive treatment of geoclimatic drivers of diversification across the entire Dry Diagonal.&lt;/p&gt;</description></item><item><title>Software</title><link>https://marcelogehara.org/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/software/</guid><description>&lt;h2 id="pipemaster"&gt;PipeMaster&lt;/h2&gt;
 &lt;img src="https://marcelogehara.org/images/pipemaster_sticker.png" alt="PipeMaster" style="float:left; margin-right:15px; margin-bottom:10px; width:120px;"&gt;
 &lt;p&gt;An R package to build and simulate coalescent models for population
 genetic and demographic inference.&lt;/p&gt;
@@ -85,4 +79,9 @@ genetic and demographic inference.&lt;/p&gt;
 &lt;li&gt;Shiny GUI for model building and visualization&lt;/li&gt;
 &lt;li&gt;Support for RADseq and whole-genome sequence data&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://github.com/gehara/PipeMaster"&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;a href="https://github.com/gehara/PipeMaster"&gt;GitHub Repository&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Teaching</title><link>https://marcelogehara.org/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/teaching/</guid><description>&lt;h2 id="teaching"&gt;Teaching&lt;/h2&gt;
+&lt;h3 id="courses-at-rutgers-newark"&gt;Courses at Rutgers-Newark&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Evolution&lt;/strong&gt; (undergraduate; Fall 2021, 2022, 2023, 2024, 2025)&lt;/p&gt;
+&lt;p&gt;Integrates current research findings and real-world applications into foundational evolutionary biology. Interactive lectures with videos, documentaries, and in-class discussions. Enrollment has grown from 79 to 117 students over five years. SIRS teaching effectiveness: avg 4.62/5.0 across six sections.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Evolution of Humans&lt;/strong&gt; (undergraduate, writing-intensive; Spring 2023, 2025)&lt;/p&gt;
+&lt;p&gt;Upper-level course incorporating book readings with in-class discussion, challenging students to think critically about human origins from a scientific standpoint.&lt;/p&gt;</description></item></channel></rss>
