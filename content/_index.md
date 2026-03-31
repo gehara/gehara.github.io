@@ -20,7 +20,7 @@ Ecology and Historical Biogeography with Genomics and Bioinformatics tools.
 
 We develop computational methods for demographic inference, including
 coalescent simulation, Approximate Bayesian Computation (ABC), and
-neural network emulators for population genetic analysis.
+neural network-based parameter estimation for population genetic analysis.
 
 **Contact:** m.gehara[at]rutgers.edu
 
