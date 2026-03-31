@@ -2,6 +2,8 @@
 title = "Gehara Lab"
 +++
 
+<img src="/images/banner.jpg" alt="Landscape" style="width:100%; margin-bottom:20px;">
+
 ## Gehara Lab
 
 {{< figure class="avatar" src="/images/hero.jpg" alt="Gehara Lab">}}
