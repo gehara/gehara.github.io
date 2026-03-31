@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marcelo Gehara</title><link>https://marcelogehara.org/</link><description>Recent content on Marcelo Gehara</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://marcelogehara.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Music</title><link>https://marcelogehara.org/music/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/music/</guid><description>&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Marcelo Gehara</title><link>https://marcelogehara.org/</link><description>Recent content in About on Marcelo Gehara</description><generator>Hugo</generator><language>en</language><atom:link href="https://marcelogehara.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Music</title><link>https://marcelogehara.org/music/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/music/</guid><description>&lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/macarraz/terna-ideia-ternario-pra-deia&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;
 &lt;/iframe&gt;
+&lt;br&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/macarraz/luiza-miguel&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;
 &lt;/iframe&gt;
+&lt;br&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/macarraz/ela-e-diferente&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;
 &lt;/iframe&gt;
+&lt;br&gt;
 &lt;iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay"
  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/macarraz/jojo&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"&gt;
-&lt;/iframe&gt;</description></item><item><title>People</title><link>https://marcelogehara.org/people/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/people/</guid><description>&lt;h2 id="current-members"&gt;Current Members&lt;/h2&gt;
+&lt;/iframe&gt;</description></item><item><title>People</title><link>https://marcelogehara.org/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/people/</guid><description>&lt;h2 id="current-members"&gt;Current Members&lt;/h2&gt;
 &lt;h3 id="postdoctoral-researcher"&gt;Postdoctoral Researcher&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Felipe Magalhaes&lt;/strong&gt;&lt;/li&gt;
@@ -40,8 +43,7 @@
 &lt;li&gt;Eliana F. de Oliveira&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="cacti-evolution-project"&gt;Cacti Evolution Project&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Espinhaco mountain range&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Photos</title><link>https://marcelogehara.org/photos/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/photos/</guid><description>&lt;p&gt;Photo gallery coming soon. In the meantime, visit the current gallery at
-&lt;a href="https://marcelogehara.wordpress.com/photos/"&gt;marcelogehara.org/photos&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Software</title><link>https://marcelogehara.org/software/</link><pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/software/</guid><description>&lt;h2 id="pipemaster"&gt;PipeMaster&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Espinhaco mountain range&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Photos</title><link>https://marcelogehara.org/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/photos/</guid><description>&lt;p&gt;Photo gallery coming soon.&lt;/p&gt;</description></item><item><title>Software</title><link>https://marcelogehara.org/software/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://marcelogehara.org/software/</guid><description>&lt;h2 id="pipemaster"&gt;PipeMaster&lt;/h2&gt;
 &lt;p&gt;An R package to build and simulate coalescent models for population
 genetic and demographic inference.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;
