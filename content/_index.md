@@ -6,8 +6,6 @@ title = "Gehara Lab"
 
 ## Gehara Lab
 
-{{< figure class="avatar" src="/images/pipemaster_sticker.png" alt="Gehara Lab">}}
-
 **Evolution and Biodiversity**
 
 Department of Earth and Environmental Sciences,
