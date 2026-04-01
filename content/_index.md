@@ -2,7 +2,7 @@
 title = "Gehara Lab"
 +++
 
-<img src="/images/banner.jpg" alt="Landscape" style="width:100%; margin-bottom:20px;">
+<img src="/images/banner_home.jpg" alt="Landscape" style="width:100%; margin-bottom:20px;">
 
 ## Gehara Lab
 

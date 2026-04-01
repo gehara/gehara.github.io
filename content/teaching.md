@@ -2,6 +2,8 @@
 title = "Teaching"
 +++
 
+<img src="/images/banner_teaching.jpg" alt="Cloud forest" style="width:100%; margin-bottom:20px;">
+
 ## Teaching
 
 ### Courses at Rutgers-Newark

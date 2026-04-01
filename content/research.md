@@ -2,6 +2,8 @@
 title = "Research"
 +++
 
+<img src="/images/banner_research.jpg" alt="Moonrise" style="width:100%; margin-bottom:20px;">
+
 ## Research
 
 Our research addresses a fundamental question in evolutionary biology: how do speciation mechanisms operate across the tree of life? We approach this through two complementary lines of work: (i) integrating population genomics, historical biogeography, and molecular ecology to investigate how geoclimatic processes drive population divergence and shape vertebrate diversity, and (ii) developing computational tools for demographic inference, combining coalescent simulation with machine learning.

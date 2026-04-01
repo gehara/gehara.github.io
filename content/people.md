@@ -2,6 +2,8 @@
 title = "People"
 +++
 
+<img src="/images/banner_people.jpg" alt="Mountains" style="width:100%; margin-bottom:20px;">
+
 ## People
 
 ### Principal Investigator
