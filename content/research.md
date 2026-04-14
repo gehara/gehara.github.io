@@ -4,6 +4,8 @@ title = "Research"
 
 <img src="/images/banner_research.jpg" alt="Moonrise" style="width:100%; margin-bottom:20px;">
 
+<div style="text-align:center; margin-bottom:20px;"><img src="/images/geharalab2.png" alt="Gehara Lab" style="width:300px;"></div>
+
 ## Research
 
 Our research addresses a fundamental question in evolutionary biology: how do speciation mechanisms operate across the tree of life? We approach this through two complementary lines of work: (i) integrating population genomics, historical biogeography, and molecular ecology to investigate how geoclimatic processes drive population divergence and shape vertebrate diversity, and (ii) developing computational tools for demographic inference, combining coalescent simulation with machine learning.
@@ -29,5 +31,3 @@ In the Neotropics, work with Gregory Thom demonstrated that tropical valleys are
 We have generated a chromosome-level reference genome for *Ameivula ocellifera* (~1.64 Gb, scaffold N50 > 100 Mb, 99.6% BUSCO completeness), a whiptail lizard distributed across the Dry Diagonal lowlands. Combined with whole-genome resequencing from natural hybrid zones along elevational gradients in the Chapada Diamantina, this system allows us to study how landscape-mediated selection shapes hybridization and genomic adaptation. Preliminary results reveal asymmetric introgression, with lowland alleles selectively prevented from spreading into highland populations at loci involved in hypoxia response and metabolic regulation.
 
 We are also developing AI-based approaches for species delimitation and phylogeography, a new direction that integrates deep learning with population genetic theory.
-
-<div style="text-align:center; margin-top:40px;"><img src="/images/geharalab2.png" alt="Gehara Lab" style="width:300px;"></div>

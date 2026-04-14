@@ -4,6 +4,8 @@ title = "Music"
 
 <img src="/images/banner_music.jpg" alt="Mountains at dawn" style="width:100%; margin-bottom:20px;">
 
+<div style="text-align:center; margin-bottom:20px;"><img src="/images/geharalab5.png" alt="Gehara Lab" style="width:300px;"></div>
+
 ## Music
 
 Before becoming a scientist, I was a musician and composer. I have a deep belief in science and art as sister endeavours — my scientific perspective is influenced by music and vice-versa. I like to make music in my free time. Here are some of my original compositions and recordings by other artists.

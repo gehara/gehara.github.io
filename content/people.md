@@ -4,6 +4,8 @@ title = "People"
 
 <img src="/images/banner_people.jpg" alt="Mountains" style="width:100%; margin-bottom:20px;">
 
+<div style="text-align:center; margin-bottom:20px;"><img src="/images/geharalab3.png" alt="Gehara Lab" style="width:300px;"></div>
+
 ## People
 
 ### Principal Investigator
@@ -87,5 +89,3 @@ Year | Degree | Institution
 - **Lukas Musher** — Host-symbiont coevolution, Amazonian toucans
 - **Jason Weckstein** — Host-symbiont coevolution
 - **Ana Carnaval** — Ecological and evolutionary processes in ecotones
-
-<div style="text-align:center; margin-top:40px;"><img src="/images/geharalab3.png" alt="Gehara Lab" style="width:300px;"></div>
