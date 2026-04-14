@@ -10,7 +10,7 @@ title = "People"
 
 <img src="/images/me.jpg" alt="Marcelo Gehara" style="float:left; margin-right:15px; margin-bottom:10px; width:150px;">
 
-**Marcelo Gehara, Ph.D.** — Associate Professor of Ecology and Evolutionary Biology
+**Marcelo Gehara, Ph.D.** — Assistant Professor of Ecology and Evolutionary Biology
 
 Department of Earth and Environmental Sciences, Rutgers University-Newark
 
@@ -41,7 +41,12 @@ Year | Degree | Institution
 ### PhD Students
 
 - **Felipe Coelho** (2021-present; expected defense 2026). Sao Francisco River as biogeographic barrier, cryptic diversity in broad-snouted caimans, hybridization and genomic adaptation along elevational gradients. 1 published, 1 accepted, 1 in review.
-- **Harika Tuzun** — Undergraduate researcher (2023-present)
+
+### Undergraduate Students
+
+- **Jonathan Duarte** (2025-present)
+- **Lyssette Juca** (2025-present)
+- **Isha Kamara** (2025-present)
 
 ---
 
@@ -60,6 +65,9 @@ Year | Degree | Institution
 - **Raphael da Silva** (CAPES 2024) — manuscript in review at *Molecular Ecology*
 - **Carlos David Perez Castillo** (FAPES 2025)
 - **Ibrahim Nehemi** (FAPESP 2026)
+
+**Former Undergraduate Students**
+- **Harika Tuzun** (2023-2024)
 
 **Former Co-advised Students**
 - **Francisco F. Ribeiro de Oliveira** (PhD; Advisor: Mirco Sole)
