@@ -4,7 +4,7 @@ title = "Software"
 
 ## PipeMaster
 
-<img src="/images/pipemaster_sticker.png" alt="PipeMaster" style="float:left; margin-right:15px; margin-bottom:10px; width:120px;">
+<img src="/images/pipemaster_logo.png" alt="PipeMaster" style="float:left; margin-right:15px; margin-bottom:10px; width:150px;">
 
 An R package to build and simulate coalescent models for population
 genetic and demographic inference.
