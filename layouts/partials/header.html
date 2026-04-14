@@ -1,9 +1,6 @@
 <div class="container mt-5">
     <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
-        <a class="navbar-brand mx-0 mr-sm-auto" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">
-            <img src="/images/geharalab5.png" alt="Gehara Lab" style="height:117px; margin-right:20px;">
-        </a>
-        <div class="navbar-nav flex-row flex-wrap">
+        <div class="navbar-nav flex-row flex-wrap mr-sm-auto">
             {{ with .Site.Menus.main }}
                 {{ $navbar_len := len . }}
                 {{ range $i, $nav_item := . }}
@@ -16,6 +13,9 @@
                 {{ end }}
             {{ end }}
         </div>
+        <a class="navbar-brand mx-0" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">
+            <img src="/images/geharalab5.png" alt="Gehara Lab" style="height:117px; margin-left:20px;">
+        </a>
     </nav>
 </div>
 <hr>

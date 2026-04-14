@@ -6,6 +6,12 @@ title = "Photos"
 
 Fieldwork across Brazil and beyond. All photos by Marcelo Gehara.
 
+[Field Expedition - December 2025, Cerrado Brasileiro](https://photos.app.goo.gl/Dw1edPuAugfLr7sv6)
+
+[Field Expedition - December 2024](https://photos.app.goo.gl/dxqVQYP2GhBszd2t6)
+
+[Field Expedition - 2020, Chapada Diamantina](https://photos.app.goo.gl/ZiguPQ9EfhP4ipU69)
+
 <style>
 .photo-grid {
   display: grid;
