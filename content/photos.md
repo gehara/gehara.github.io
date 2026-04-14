@@ -2,8 +2,6 @@
 title = "Photos"
 +++
 
-<img src="/images/banner_photos.jpg" alt="Treefrog" style="width:100%; margin-bottom:20px;">
-
 ## Photos
 
 Fieldwork across Brazil and beyond. All photos by Marcelo Gehara.
