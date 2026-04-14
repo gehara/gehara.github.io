@@ -4,8 +4,6 @@ title = "Teaching"
 
 <img src="/images/banner_teaching.jpg" alt="Cloud forest" style="width:100%; margin-bottom:20px;">
 
-<div style="text-align:center; margin-bottom:20px;"><img src="/images/geharalab1.png" alt="Gehara Lab" style="width:300px;"></div>
-
 ## Teaching
 
 ### Courses at Rutgers-Newark

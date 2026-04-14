@@ -4,8 +4,6 @@ title = "Photos"
 
 <img src="/images/banner_photos.jpg" alt="Treefrog" style="width:100%; margin-bottom:20px;">
 
-<div style="text-align:center; margin-bottom:20px;"><img src="/images/geharalab4.png" alt="Gehara Lab" style="width:300px;"></div>
-
 ## Photos
 
 Fieldwork across Brazil and beyond. All photos by Marcelo Gehara.

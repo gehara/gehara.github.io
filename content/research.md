@@ -4,8 +4,6 @@ title = "Research"
 
 <img src="/images/banner_research.jpg" alt="Moonrise" style="width:100%; margin-bottom:20px;">
 
-<div style="text-align:center; margin-bottom:20px;"><img src="/images/geharalab2.png" alt="Gehara Lab" style="width:300px;"></div>
-
 ## Research
 
 Our research addresses a fundamental question in evolutionary biology: how do speciation mechanisms operate across the tree of life? We approach this through two complementary lines of work: (i) integrating population genomics, historical biogeography, and molecular ecology to investigate how geoclimatic processes drive population divergence and shape vertebrate diversity, and (ii) developing computational tools for demographic inference, combining coalescent simulation with machine learning.

@@ -4,8 +4,6 @@ title = "Gehara Lab"
 
 <img src="/images/banner_home.jpg" alt="Landscape" style="width:100%; margin-bottom:20px;">
 
-<div style="text-align:center; margin-bottom:20px;"><img src="/images/geharalab5.png" alt="Gehara Lab" style="width:300px;"></div>
-
 ## Gehara Lab
 
 **Evolution and Biodiversity**
