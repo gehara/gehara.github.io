@@ -46,3 +46,5 @@ R programming, population genetic simulations, statistical inference, and landsc
 > "This professor made this course engaging and I always left the room feeling like I learned something new" (Fall 2024)
 
 [RateMyProfessor: 5.0/5.0](https://www.ratemyprofessors.com/) across 11 reviews
+
+<div style="text-align:center; margin-top:40px;"><img src="/images/geharalab1.png" alt="Gehara Lab" style="width:300px;"></div>

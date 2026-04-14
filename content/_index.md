@@ -25,3 +25,5 @@ neural network-based parameter estimation for population genetic analysis.
 **Contact:** m.gehara[at]rutgers.edu
 
 **Address:** 195 University Ave, Newark, NJ 07102
+
+<div style="text-align:center; margin-top:40px;"><img src="/images/geharalab5.png" alt="Gehara Lab" style="width:300px;"></div>

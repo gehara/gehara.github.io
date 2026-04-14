@@ -94,3 +94,5 @@ Fieldwork across Brazil and beyond. All photos by Marcelo Gehara.
   <a href="/images/photos-medium/mg_0227.jpg" target="_blank"><img src="/images/photos-thumb/mg_0227.jpg" alt="Photo" loading="lazy"></a>
   <a href="/images/photos-medium/mg_1950.jpg" target="_blank"><img src="/images/photos-thumb/mg_1950.jpg" alt="Photo" loading="lazy"></a>
 </div>
+
+<div style="text-align:center; margin-top:40px;"><img src="/images/geharalab4.png" alt="Gehara Lab" style="width:300px;"></div>

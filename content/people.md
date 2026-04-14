@@ -42,6 +42,10 @@ Year | Degree | Institution
 
 - **Felipe Coelho** (2021-present). Population genomics, hybridization and genomic adaptation along elevational gradients.
 
+### Visiting PhD Students
+
+- **Ibrahim Nehemi** (FAPESP 2026). Systematics and biogeography of Neotropical snakes.
+
 ### Undergraduate Students
 
 - **Jonathan Duarte** (2025-present)
@@ -64,8 +68,6 @@ Year | Degree | Institution
 - **Henrique de Andrade Lima** (CAPES 2023-2024). Landscape genetics of highland frogs in northeastern Brazil.
 - **Raphael da Silva** (CAPES 2024). Genetic differentiation and demographic history of plants on land-bridge islands.
 - **Carlos David Perez Castillo** (FAPES 2025). Neotropical frogs molecular diversity.
-- **Ibrahim Nehemi** (FAPESP 2026). Systematics and biogeography of Neotropical snakes.
-
 **Former Undergraduate Students**
 - **Harika Tuzun** (2023-2024)
 
@@ -85,3 +87,5 @@ Year | Degree | Institution
 - **Lukas Musher** — Host-symbiont coevolution, Amazonian toucans
 - **Jason Weckstein** — Host-symbiont coevolution
 - **Ana Carnaval** — Ecological and evolutionary processes in ecotones
+
+<div style="text-align:center; margin-top:40px;"><img src="/images/geharalab3.png" alt="Gehara Lab" style="width:300px;"></div>
