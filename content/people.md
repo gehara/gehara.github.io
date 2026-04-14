@@ -40,7 +40,7 @@ Year | Degree | Institution
 
 ### PhD Students
 
-- **Felipe Coelho** (2021-present; expected defense 2026). Sao Francisco River as biogeographic barrier, cryptic diversity in broad-snouted caimans, hybridization and genomic adaptation along elevational gradients. 1 published, 1 accepted, 1 in review.
+- **Felipe Coelho** (2021-present). Population genomics, hybridization and genomic adaptation along elevational gradients.
 
 ### Undergraduate Students
 
@@ -53,18 +53,18 @@ Year | Degree | Institution
 ### Former Members
 
 **PhD Students**
-- **Wilson Guillory** (2020-2025). Defended with **Outstanding Dissertation Award** (campus-wide recognition). First-authored the invited *Molecular Ecology* review on Dry Diagonal diversification (2024). Whole-genome phylogeny manuscript in review at *Heredity*.
+- **Wilson Guillory** (2020-2025). Diversification in the South American Dry Diagonal, phylogenomics and bioinformatics. **Outstanding Dissertation Award**. [Google Scholar](https://scholar.google.com/citations?user=a_n1uCIAAAAJ)
 
 **Postdoctoral Researchers**
-- **Felipe M. de Magalhaes** (2021-2023). Multiple co-authored papers including the *Molecular Ecology* invited review (2024).
-- **Evandro Marsolla Moraes** (2022, visiting professor). Co-authored *Molecular Ecology* review.
+- **Felipe M. de Magalhaes** (2021-2023). Herpetology, phylogeography, and systematics of Neotropical frogs. [Google Scholar](https://scholar.google.com/citations?user=dTOv6YEAAAAJ)
+- **Evandro Marsolla Moraes** (2022, visiting professor). Population genetics of cacti, Dry Diagonal biogeography. [Google Scholar](https://scholar.google.com/citations?user=1LmN6x4AAAAJ)
 
 **Visiting PhD Students**
-- **Iago Ornellas** (CAPES 2023) — co-authored *Molecular Phylogenetics and Evolution* (2025)
-- **Henrique de Andrade Lima** (CAPES 2023-2024) — published in *Ecological Processes* (2025)
-- **Raphael da Silva** (CAPES 2024) — manuscript in review at *Molecular Ecology*
-- **Carlos David Perez Castillo** (FAPES 2025)
-- **Ibrahim Nehemi** (FAPESP 2026)
+- **Iago Ornellas** (CAPES 2023). Molecular systematics of broad-snouted caimans.
+- **Henrique de Andrade Lima** (CAPES 2023-2024). Landscape genetics of highland frogs in northeastern Brazil.
+- **Raphael da Silva** (CAPES 2024). Genetic differentiation and demographic history of plants on land-bridge islands.
+- **Carlos David Perez Castillo** (FAPES 2025). Neotropical frogs molecular diversity.
+- **Ibrahim Nehemi** (FAPESP 2026). Systematics and biogeography of Neotropical snakes.
 
 **Former Undergraduate Students**
 - **Harika Tuzun** (2023-2024)
