@@ -40,11 +40,11 @@ Year | Degree | Institution
 
 ### PhD Students
 
-- **Felipe Coelho** (2021-present). Population genomics, hybridization and genomic adaptation along elevational gradients.
+- **Felipe Coelho** (2021-present). Population genomics, hybridization and genomic adaptation along elevational gradients. [Google Scholar](https://scholar.google.com/citations?user=z7BXI9wAAAAJ&hl=pt-BR)
 
 ### Visiting PhD Students
 
-- **Ibrahim Nehemi** (FAPESP 2026). Systematics and biogeography of Neotropical snakes.
+- **Ibrahim Nehemy** (FAPESP 2026). Systematics and biogeography of Neotropical snakes.
 
 ### Undergraduate Students
 
@@ -74,7 +74,7 @@ Year | Degree | Institution
 
 **Former Co-advised Students**
 - **Francisco F. Ribeiro de Oliveira** (PhD; Advisor: Mirco Sole)
-- **Emanuel Masiero da Fonseca** (M.S.; Advisor: Adrian A. Garda)
+- **Emanuel Masiero da Fonseca** (M.S.; Advisor: Adrian A. Garda). [Google Scholar](https://scholar.google.com/citations?user=_QRTPEwAAAAJ&hl=en)
 - **Flavia Mol Lana** (M.S.; Advisor: Adrian A. Garda)
 
 ---
