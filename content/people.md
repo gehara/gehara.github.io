@@ -49,7 +49,6 @@ Year | Degree | Institution
 ### Undergraduate Students
 
 - **Jonathan Duarte** (2025-present)
-- **Lyssette Juca** (2025-present)
 - **Isha Kamara** (2025-present)
 
 ---
@@ -68,7 +67,9 @@ Year | Degree | Institution
 - **Henrique de Andrade Lima** (CAPES 2023-2024). Landscape genetics of highland frogs in northeastern Brazil.
 - **Raphael da Silva** (CAPES 2024). Genetic differentiation and demographic history of plants on land-bridge islands.
 - **Carlos David Perez Castillo** (FAPES 2025). Neotropical frogs molecular diversity.
+
 **Former Undergraduate Students**
+- **Lyssette Juca** (2025)
 - **Harika Tuzun** (2023-2024)
 
 **Former Co-advised Students**
