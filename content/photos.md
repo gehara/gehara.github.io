@@ -12,6 +12,10 @@ Fieldwork across Brazil and beyond. All photos by Marcelo Gehara.
 
 [Field Expedition - 2020, Chapada Diamantina](https://photos.app.goo.gl/ZiguPQ9EfhP4ipU69)
 
+---
+
+### Miscellaneous Pictures
+
 <style>
 .photo-grid {
   display: grid;
