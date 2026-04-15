@@ -64,7 +64,7 @@ Year | Degree | Institution
 
 **Visiting PhD Students**
 - **Iago Ornellas** (CAPES 2023). Molecular systematics of broad-snouted caimans.
-- **Henrique de Andrade Lima** (CAPES 2023-2024). Landscape genetics of highland frogs in northeastern Brazil.
+- **Henrique de Andrade Lima** (CAPES 2023-2024). Landscape genetics of highland frogs in northeastern Brazil. [Google Scholar](https://scholar.google.com/citations?user=fSLBGKsAAAAJ&hl=pt-BR)
 - **Raphael da Silva** (CAPES 2024). Genetic differentiation and demographic history of plants on land-bridge islands.
 - **Carlos David Perez Castillo** (FAPES 2025). Neotropical frogs molecular diversity.
 
@@ -81,10 +81,10 @@ Year | Degree | Institution
 
 ### Collaborators
 
-- **Adrian A. Garda** — Comparative phylogeography, Dry Diagonal
-- **Frank T. Burbrink** — North American snake systematics, hybridization
-- **Eliana F. de Oliveira** — Phylogeography, landscape genetics
-- **Evandro Marsolla** — Cacti evolution, Espinhaco mountain range
-- **Lukas Musher** — Host-symbiont coevolution, Amazonian toucans
-- **Jason Weckstein** — Host-symbiont coevolution
-- **Ana Carnaval** — Ecological and evolutionary processes in ecotones
+- **Adrian A. Garda** — Comparative phylogeography, Dry Diagonal. [Website](https://sites.google.com/site/larufrn/home)
+- **Frank T. Burbrink** — North American snake systematics, hybridization. [Website](https://sites.google.com/view/frank-burbrink-website/home)
+- **Eliana F. de Oliveira** — Phylogeography, landscape genetics. [Google Scholar](https://scholar.google.com/citations?user=5kYSvYsAAAAJ&hl=pt-BR)
+- **Evandro Marsolla** — Cacti evolution, Espinhaco mountain range. [Website](https://lagevolsorocaba.wixsite.com/lagevol?lang=en)
+- **Lukas Musher** — Host-symbiont coevolution, Amazonian toucans. [Website](https://lukasmusher.wordpress.com/)
+- **Jason Weckstein** — Host-symbiont coevolution. [Website](https://ans-wecksteinlab.ansp.org/)
+- **Ana Carnaval** — Ecological and evolutionary processes in ecotones. [Website](https://www.carnavallab.org/ana)
